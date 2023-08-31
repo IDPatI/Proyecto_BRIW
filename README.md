@@ -1,4 +1,4 @@
-# ProyectoF_DAW_AS
+# Proyecto_BRIW
 Repositorio en el cual se van a ir subiendo los avances del proyecto final de Diseño de Aplicaciones Web y Arquitectura de Software
 
 <h3 >⁂ David Alberto Pat Cituk <a href="https://github.com/IDPatI">
