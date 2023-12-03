@@ -1,0 +1,41 @@
+<?php return array(
+    'root' => array(
+        'name' => '__root__',
+        'pretty_version' => 'dev-main',
+        'version' => 'dev-main',
+        'reference' => 'c1ec46236a806a800deddd1882ed4a42dfa63617',
+        'type' => 'library',
+        'install_path' => __DIR__ . '/../../',
+        'aliases' => array(),
+        'dev' => true,
+    ),
+    'versions' => array(
+        '__root__' => array(
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
+            'reference' => 'c1ec46236a806a800deddd1882ed4a42dfa63617',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../../',
+            'aliases' => array(),
+            'dev_requirement' => false,
+        ),
+        'icanboogie/inflector' => array(
+            'pretty_version' => 'v2.2.1',
+            'version' => '2.2.1.0',
+            'reference' => '0288676d1cd48899386f8bbe50643d3ade5dc13b',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../icanboogie/inflector',
+            'aliases' => array(),
+            'dev_requirement' => false,
+        ),
+        'voku/stop-words' => array(
+            'pretty_version' => '2.0.1',
+            'version' => '2.0.1.0',
+            'reference' => '8e63c0af20f800b1600783764e0ce19e53969f71',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../voku/stop-words',
+            'aliases' => array(),
+            'dev_requirement' => false,
+        ),
+    ),
+);

@@ -1,0 +1,6 @@
+{
+    "require": {
+        "icanboogie/inflector": "^2.2",
+        "voku/stop-words": "^2.0"
+    }
+}
